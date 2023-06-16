@@ -1,4 +1,4 @@
-# Adis upustva:
+# Adis uputstva:
 
 Skines ovaj kod otvoris ga u visual studio code.
 Zatim otvoris novi terminal, precica ctrl + j i kucas ovo ispod:
